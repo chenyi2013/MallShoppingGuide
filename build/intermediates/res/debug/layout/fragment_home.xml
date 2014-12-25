@@ -1,0 +1,13 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center" >
+
+    <com.puji.mallshoppingguide.view.MyGridView
+        android:id="@+id/home_grid_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:numColumns="5" >
+    </com.puji.mallshoppingguide.view.MyGridView>
+
+</LinearLayout><!-- From: file:/C:/Users/Administrator/project/MallShoppingGuide/res/layout/fragment_home.xml -->

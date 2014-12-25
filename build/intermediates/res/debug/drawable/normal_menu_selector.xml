@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/top_tab_bg" android:state_focused="true"></item>
+    <item android:drawable="@drawable/top_tab_bg_false" android:state_focused="false"></item>
+
+</selector><!-- From: file:/C:/Users/Administrator/project/MallShoppingGuide/res/drawable/normal_menu_selector.xml -->

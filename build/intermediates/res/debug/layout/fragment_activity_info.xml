@@ -1,0 +1,9 @@
+<com.etsy.android.grid.StaggeredGridView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/grid_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="50dp"
+    android:layout_marginRight="50dp"
+    tools:context=".MainActivity" />
+<!-- From: file:/C:/Users/Administrator/project/MallShoppingGuide/res/layout/fragment_activity_info.xml -->

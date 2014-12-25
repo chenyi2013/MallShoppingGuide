@@ -1,0 +1,7 @@
+C:\Users\Administrator\project\MallShoppingGuide\build\intermediates\classes\debug
+C:\Users\Administrator\project\MallShoppingGuide\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-6174d4c72076808809d0b7f6cbf35215a32190cf.jar
+C:\Users\Administrator\project\MallShoppingGuide\build\intermediates\pre-dexed\debug\classes-cbab53fe335f223edcf8851405ba73d5152dbc22.jar
+C:\Users\Administrator\project\MallShoppingGuide\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.3-66a53d4a54a4b70dd03ccbcf218019049eff36da.jar
+C:\Users\Administrator\project\MallShoppingGuide\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-f92f9cb1cb49e521a32d3e59149808e416aee32c.jar
+C:\Users\Administrator\project\MallShoppingGuide\build\intermediates\pre-dexed\debug\classes-b6c105abd9ec7ab509190bd25d054459f16cb3b6.jar
+C:\Users\Administrator\project\MallShoppingGuide\build\intermediates\pre-dexed\debug\classes-22d7bc56ce1dcfd62059a75def4b58c7baa75592.jar

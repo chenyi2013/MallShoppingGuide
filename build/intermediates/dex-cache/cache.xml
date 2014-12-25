@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Administrator\project\MallShoppingGuide\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="C:\Users\Administrator\project\MallShoppingGuide\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-f92f9cb1cb49e521a32d3e59149808e416aee32c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="C:\Users\Administrator\project\MallShoppingGuide\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-6174d4c72076808809d0b7f6cbf35215a32190cf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\project\MallShoppingGuide\libs\universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="C:\Users\Administrator\project\MallShoppingGuide\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.3-66a53d4a54a4b70dd03ccbcf218019049eff36da.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\project\MallShoppingGuide\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4796f18d3750bf2bfa078407a94a7f9db35b440d">
+        <dex dex="C:\Users\Administrator\project\MallShoppingGuide\build\intermediates\pre-dexed\debug\classes-b6c105abd9ec7ab509190bd25d054459f16cb3b6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\project\MallShoppingGuide\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="C:\Users\Administrator\project\MallShoppingGuide\build\intermediates\pre-dexed\debug\classes-22d7bc56ce1dcfd62059a75def4b58c7baa75592.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\project\MallShoppingGuide\build\intermediates\exploded-aar\MallShoppingGuide\library\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="eba1bb9325d98072dfb89286416329133c39bb35">
+        <dex dex="C:\Users\Administrator\project\MallShoppingGuide\build\intermediates\pre-dexed\debug\classes-cbab53fe335f223edcf8851405ba73d5152dbc22.jar" />
+    </item>
+
+</items>

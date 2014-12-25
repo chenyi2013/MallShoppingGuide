@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:src="@drawable/home_true"
+    android:scaleType="fitXY"
+    android:layout_height="match_parent" >
+</ImageView><!-- From: file:/C:/Users/Administrator/project/MallShoppingGuide/res/layout/img_menu_layout.xml -->
